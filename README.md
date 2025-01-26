@@ -1,1 +1,1 @@
-# eep520-wi25
+# 520-Assignments
